@@ -16,4 +16,5 @@ Project is created with:
 ## Setup
 To run this project, git clone it locally.
 Change variables in main/config.py.
-Install packages via PIP ```pip3 install paramiko xlrd tqdm pandas```
+Install packages via PIP ```pip3 install paramiko xlrd tqdm pandas openpyxl```
+Customiz your ```inventory.xlsx``` and run ```python3 device_backup.py```
