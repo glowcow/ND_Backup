@@ -2,7 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Usage](#setup)
 
 ## General info
 This project was created to automate the daily routine tasks for NOC engineer.
@@ -13,7 +13,7 @@ Project is created with:
 * multiprocess 0.70
 * pandas 1.3.4
     
-## Setup
+## Usage
 To run this project, git clone it locally.
 Change variables in main/config.py.
 Install required packages via PIP ```pip3 install paramiko xlrd tqdm pandas openpyxl```
