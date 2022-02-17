@@ -1,4 +1,4 @@
-# NOC tools and configuration scripts
+# Network Device Backup Tool
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
