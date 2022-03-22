@@ -11,7 +11,7 @@ class bc:
     UNDERLINE = '\033[4m'
 
 class log_var:
-    path = 'log/' #Path to local log faile
+    path = 'log/' #Path to local log file
 
 class radctl: #all values must be encoded in base64
     username = 'dGVzdA=='
