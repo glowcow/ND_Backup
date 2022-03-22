@@ -9,12 +9,14 @@ This project was created to automate the daily routine tasks for NOC engineer.
     
 ## Technologies
 Project is created with:
-* paramiko 2.8.0
-* multiprocess 0.70
 * pandas 1.3.4
+* openpyxl 3.0.9
+* paramiko 2.9.2
+* multiprocess 0.70.12.2
+* tqdm 4.62.3
     
 ## Usage
 To run this project, git clone it locally.
 Change variables in main/config.py.
-Install required packages via PIP ```pip3 install paramiko xlrd tqdm pandas openpyxl```
+Install required packages via PIP ```pip3 install -r requirements.txt```
 Customize your ```inventory.xlsx``` and run ```python3 device_backup.py```
