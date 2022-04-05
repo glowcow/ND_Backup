@@ -11,7 +11,7 @@ This project was created to automate the daily routine tasks for NOC engineer.
 Project is created with:
 * pandas 1.3.4
 * openpyxl 3.0.9
-* paramiko 2.9.2
+* paramiko 2.10.3
 * multiprocess 0.70.12.2
 * tqdm 4.62.3
     
